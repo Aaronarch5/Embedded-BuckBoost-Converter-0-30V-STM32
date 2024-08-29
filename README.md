@@ -14,8 +14,6 @@ This project involves the design and implementation of a DC-DC Buck-Boost conver
 Instituto Politécnico Nacional  
 Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas
 
-
-
 ## Date
 
 November, 2023
@@ -56,7 +54,9 @@ The project successfully demonstrates the implementation of a Buck-Boost convert
 - Accurate voltage sensing and control
 - Functional Buck-Boost operation
 - Insights into component selection and system optimization
+## PCB Design
 
+![PCB Design](images/pcb_image.png)
 ## References
 
 - R. Silva-Ortigoza, H. Sira-Ramirez. *Control Design Techniques in Power Electronics Devices*. Springer, 2006.
